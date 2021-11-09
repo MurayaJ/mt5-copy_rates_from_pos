@@ -27,7 +27,7 @@ while True:
     print(rates_frame)
 
 
-
+*******************************************************
 
 # shut down connection to the MetaTrader 5 terminal
 #mt5.shutdown()
